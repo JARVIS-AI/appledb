@@ -1,0 +1,22 @@
+{
+  "osStr": "audioOS",
+  "version": "14.5 RC",
+  "build": "18L204",
+  "released": "2021-04-20",
+  "beta": true,
+  "devices": {
+    "AudioAccessory1,1": {
+      "ipsw": "none"
+    },
+    "AudioAccessory1,2": {
+      "ipsw": "none"
+    },
+    "AudioAccessory5,1": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "18L204-audioOS",
+  "sortVersion": "14.5 RC",
+  "osType": "audioOS",
+  "appledburl": "https://appledb.dev/audioOS/18L204.html"
+}

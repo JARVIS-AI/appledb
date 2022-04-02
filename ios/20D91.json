@@ -1,0 +1,25 @@
+{
+  "osStr": "macOS",
+  "version": "11.2.3",
+  "build": "20D91",
+  "released": "2021-03-08",
+  "devices": {
+    "MacBookAir10,1": {
+      "ipsw": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-14756/5676903C-6D55-4412-B9DF-969F15F5491A/UniversalMac_11.2.3_20D91_Restore.ipsw"
+    },
+    "MacBookPro17,1": {
+      "ipsw": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-14756/5676903C-6D55-4412-B9DF-969F15F5491A/UniversalMac_11.2.3_20D91_Restore.ipsw"
+    },
+    "ADP3,2": {
+      "ipsw": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-14756/5676903C-6D55-4412-B9DF-969F15F5491A/UniversalMac_11.2.3_20D91_Restore.ipsw"
+    },
+    "Macmini9,1": {
+      "ipsw": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-14756/5676903C-6D55-4412-B9DF-969F15F5491A/UniversalMac_11.2.3_20D91_Restore.ipsw"
+    }
+  },
+  "uniqueBuild": "20D91",
+  "beta": false,
+  "sortVersion": "11.2.3",
+  "osType": "macOS",
+  "appledburl": "https://appledb.dev/macOS/20D91.html"
+}

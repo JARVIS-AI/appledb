@@ -1,0 +1,20 @@
+{
+  "name": "iPad Air (4th generation) Wi-Fi",
+  "identifier": "iPad13,1",
+  "soc": "A14",
+  "arch": "arm64e",
+  "type": "iPad Air",
+  "board": [
+    "J307AP"
+  ],
+  "model": [
+    "A2316"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-air4-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-air4-2.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-air4-3.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-air4-4.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-air4-5.icns.png"
+  ]
+}

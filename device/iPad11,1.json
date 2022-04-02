@@ -1,0 +1,18 @@
+{
+  "name": "iPad mini (5th generation) Wi-Fi",
+  "identifier": "iPad11,1",
+  "soc": "A12",
+  "arch": "arm64e",
+  "type": "iPad mini",
+  "board": [
+    "J210AP"
+  ],
+  "model": [
+    "A2133"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini5-wifi-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini5-wifi-2.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini5-wifi-3.icns.png"
+  ]
+}

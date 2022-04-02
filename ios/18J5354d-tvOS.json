@@ -1,0 +1,17 @@
+{
+  "osStr": "tvOS",
+  "version": "14.0 beta 4",
+  "build": "18J5354d",
+  "released": "2020-08-04",
+  "beta": true,
+  "devices": {
+    "AppleTV5,3": {
+      "ipsw": ""
+    },
+    "AppleTV6,2": {}
+  },
+  "uniqueBuild": "18J5354d-tvOS",
+  "sortVersion": "14.0 beta 4",
+  "osType": "tvOS",
+  "appledburl": "https://appledb.dev/tvOS/18J5354d.html"
+}

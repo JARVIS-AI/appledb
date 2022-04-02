@@ -1,0 +1,17 @@
+{
+  "name": "iPad Pro 12.9-inch (5th generation) Wi-Fi",
+  "identifier": "iPad13,8",
+  "soc": "M1",
+  "arch": "arm64e",
+  "type": "iPad Pro",
+  "board": [
+    "J522AP"
+  ],
+  "model": [
+    "A2378"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-pro-12point9-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-pro-12point9-2.icns.png"
+  ]
+}

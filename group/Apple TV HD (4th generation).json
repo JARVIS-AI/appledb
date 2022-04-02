@@ -1,0 +1,8 @@
+{
+  "name": "Apple TV HD (4th generation)",
+  "type": "Apple TV",
+  "order": 3,
+  "devices": [
+    "AppleTV5,3"
+  ]
+}

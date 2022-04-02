@@ -1,0 +1,19 @@
+{
+  "name": "iPad mini (6th generation) Wi-Fi",
+  "identifier": "iPad14,1",
+  "soc": "A15",
+  "arch": "arm64e",
+  "type": "iPad mini",
+  "board": [
+    "J310AP"
+  ],
+  "model": [
+    "A2567"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini6-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini6-3.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini6-6.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini6-7.icns.png"
+  ]
+}

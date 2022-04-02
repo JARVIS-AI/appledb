@@ -1,0 +1,20 @@
+{
+  "name": "HomePod mini",
+  "identifier": "AudioAccessory5,1",
+  "soc": "S5",
+  "arch": "arm64e",
+  "type": "HomePod",
+  "board": [
+    "B520AP"
+  ],
+  "model": [
+    "A2374"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.homepod-mini-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.homepod-mini-2.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.homepod-mini-7.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.homepod-mini-8.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.homepod-mini-9.icns.png"
+  ]
+}

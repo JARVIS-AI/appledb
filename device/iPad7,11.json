@@ -1,0 +1,18 @@
+{
+  "name": "iPad (7th generation) Wi-Fi",
+  "identifier": "iPad7,11",
+  "soc": "A10",
+  "arch": "arm64",
+  "type": "iPad",
+  "board": [
+    "J171AP"
+  ],
+  "model": [
+    "A2197"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-7-wifi-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-7-wifi-2.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-7-wifi-3.icns.png"
+  ]
+}

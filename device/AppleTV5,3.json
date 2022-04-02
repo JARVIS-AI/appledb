@@ -1,0 +1,16 @@
+{
+  "name": "Apple TV HD (4th generation)",
+  "identifier": "AppleTV5,3",
+  "soc": "A8",
+  "arch": "arm64",
+  "type": "Apple TV",
+  "board": [
+    "J42DAP"
+  ],
+  "model": [
+    "A1625"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.apple-tv-4.icns.png"
+  ]
+}

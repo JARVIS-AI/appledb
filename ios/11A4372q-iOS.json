@@ -1,0 +1,34 @@
+{
+  "osStr": "iOS",
+  "version": "7.0 beta",
+  "build": "11A4372q",
+  "released": "2013-06-10",
+  "beta": true,
+  "devices": {
+    "iPhone3,1": {
+      "ipsw": "none"
+    },
+    "iPhone3,2": {
+      "ipsw": "none"
+    },
+    "iPhone3,3": {
+      "ipsw": "none"
+    },
+    "iPhone4,1": {
+      "ipsw": "none"
+    },
+    "iPhone5,1": {
+      "ipsw": "none"
+    },
+    "iPhone5,2": {
+      "ipsw": "none"
+    },
+    "iPod5,1": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "11A4372q-iOS",
+  "sortVersion": "7.0 beta",
+  "osType": "iOS",
+  "appledburl": "https://appledb.dev/iOS/11A4372q.html"
+}

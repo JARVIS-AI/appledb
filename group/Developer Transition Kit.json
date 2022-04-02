@@ -1,0 +1,8 @@
+{
+  "name": "Developer Transition Kit",
+  "type": "Developer Transition Kit",
+  "order": 0,
+  "devices": [
+    "ADP3,2"
+  ]
+}

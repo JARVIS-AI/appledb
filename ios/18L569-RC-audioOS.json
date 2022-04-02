@@ -1,0 +1,22 @@
+{
+  "osStr": "audioOS",
+  "version": "14.6 RC",
+  "build": "18L569",
+  "uniqueBuild": "18L569-RC-audioOS",
+  "released": "2021-05-17",
+  "beta": true,
+  "devices": {
+    "AudioAccessory1,1": {
+      "ipsw": "none"
+    },
+    "AudioAccessory1,2": {
+      "ipsw": "none"
+    },
+    "AudioAccessory5,1": {
+      "ipsw": "none"
+    }
+  },
+  "sortVersion": "14.6 RC",
+  "osType": "audioOS",
+  "appledburl": "https://appledb.dev/audioOS/18L569-RC.html"
+}

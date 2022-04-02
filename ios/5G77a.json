@@ -1,0 +1,16 @@
+{
+  "osStr": "iPhoneOS",
+  "version": "2.2",
+  "build": "5G77a",
+  "released": "2008-11-21",
+  "devices": {
+    "iPod2,1": {
+      "ipsw": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPod/SBML/osx/061-5358.20081120.Gtghy/iPod2,1_2.2_5G77a_Restore.ipsw"
+    }
+  },
+  "uniqueBuild": "5G77a",
+  "beta": false,
+  "sortVersion": "2.2",
+  "osType": "iOS",
+  "appledburl": "https://appledb.dev/iOS/5G77a.html"
+}

@@ -1,0 +1,17 @@
+{
+  "osStr": "tvOS",
+  "version": "14.3 RC",
+  "build": "18K561",
+  "uniqueBuild": "18K561-RC",
+  "released": "2020-12-08",
+  "beta": true,
+  "devices": {
+    "AppleTV5,3": {
+      "ipsw": "https://updates.cdn-apple.com/2020WinterFCS/fullrestores/001-43762/07BBCC09-C919-4301-A2F5-52DB60DBC476/AppleTV5,3_14.3_18K561_Restore.ipsw"
+    },
+    "AppleTV6,2": {}
+  },
+  "sortVersion": "14.3 RC",
+  "osType": "tvOS",
+  "appledburl": "https://appledb.dev/tvOS/18K561-RC.html"
+}

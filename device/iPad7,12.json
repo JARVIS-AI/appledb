@@ -1,0 +1,20 @@
+{
+  "name": "iPad (7th generation) Wi-Fi + Cellular",
+  "identifier": "iPad7,12",
+  "soc": "A10",
+  "arch": "arm64",
+  "type": "iPad",
+  "board": [
+    "J172AP"
+  ],
+  "model": [
+    "A2198",
+    "A2199",
+    "A2200"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-7-wwan-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-7-wwan-2.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-7-wwan-3.icns.png"
+  ]
+}

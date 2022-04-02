@@ -1,0 +1,18 @@
+{
+  "name": "iPad mini 4 Wi-Fi",
+  "identifier": "iPad5,1",
+  "soc": "A8",
+  "arch": "arm64",
+  "type": "iPad mini",
+  "board": [
+    "J96AP"
+  ],
+  "model": [
+    "A1538"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini4-wifi-b4b5b9.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini4-wifi-d7d8d9.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini4-wifi-e1ccb5.icns.png"
+  ]
+}

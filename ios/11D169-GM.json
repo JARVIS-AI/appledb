@@ -1,0 +1,19 @@
+{
+  "osStr": "iOS",
+  "version": "7.1 GM",
+  "build": "11D169",
+  "uniqueBuild": "11D169-GM",
+  "released": "2014-03-10",
+  "beta": true,
+  "devices": {
+    "iPhone3,1": {
+      "ipsw": "none"
+    },
+    "iPhone3,2": {
+      "ipsw": "none"
+    }
+  },
+  "sortVersion": "7.1 GM",
+  "osType": "iOS",
+  "appledburl": "https://appledb.dev/iOS/11D169-GM.html"
+}

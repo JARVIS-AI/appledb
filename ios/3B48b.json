@@ -1,0 +1,19 @@
+{
+  "osStr": "iPhoneOS",
+  "version": "1.1.2",
+  "build": "3B48b",
+  "released": "2007-11-12",
+  "devices": {
+    "iPhone1,1": {
+      "ipsw": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-4037.20071107.5Bghn/iPhone1,1_1.1.2_3B48b_Restore.ipsw"
+    },
+    "iPod1,1": {
+      "ipsw": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPod/SBML/osx/bundles/061-4036.20071107.9g3DF/iPod1,1_1.1.2_3B48b_Restore.ipsw"
+    }
+  },
+  "uniqueBuild": "3B48b",
+  "beta": false,
+  "sortVersion": "1.1.2",
+  "osType": "iOS",
+  "appledburl": "https://appledb.dev/iOS/3B48b.html"
+}

@@ -1,0 +1,16 @@
+{
+  "osStr": "iOS",
+  "version": "4.2.1",
+  "build": "8C148a",
+  "released": "2010-11-18",
+  "devices": {
+    "iPhone2,1": {
+      "ipsw": "http://appldnld.apple.com/iPhone4/061-9895.20101122.Cdew2/iPhone2,1_4.2.1_8C148a_Restore.ipsw"
+    }
+  },
+  "uniqueBuild": "8C148a",
+  "beta": false,
+  "sortVersion": "4.2.1",
+  "osType": "iOS",
+  "appledburl": "https://appledb.dev/iOS/8C148a.html"
+}

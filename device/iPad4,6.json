@@ -1,0 +1,17 @@
+{
+  "name": "iPad mini 2 Wi-Fi + Cellular (TD-LTE)",
+  "identifier": "iPad4,6",
+  "soc": "A7",
+  "arch": "arm64",
+  "type": "iPad mini",
+  "board": [
+    "J86AP"
+  ],
+  "model": [
+    "A1491"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini2-99989b.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini2-d7d9d8.icns.png"
+  ]
+}

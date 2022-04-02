@@ -1,0 +1,20 @@
+{
+  "osStr": "Apple TV Software",
+  "version": "7.2 beta",
+  "iosVersion": "8.3 beta 4",
+  "build": "12F61",
+  "released": "2015-03-24",
+  "beta": true,
+  "devices": {
+    "AppleTV3,1": {
+      "ipsw": "none"
+    },
+    "AppleTV3,2": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "12F61-tvOS",
+  "sortVersion": "8.3 beta 4",
+  "osType": "tvOS",
+  "appledburl": "https://appledb.dev/tvOS/12F61.html"
+}

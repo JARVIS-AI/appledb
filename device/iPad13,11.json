@@ -1,0 +1,17 @@
+{
+  "name": "iPad Pro 12.9-inch (5th generation) Wi-Fi + Cellular (China mainland)",
+  "identifier": "iPad13,11",
+  "soc": "M1",
+  "arch": "arm64e",
+  "type": "iPad Pro",
+  "board": [
+    "J523XAP"
+  ],
+  "model": [
+    "A2462"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-pro-12point9-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-pro-12point9-2.icns.png"
+  ]
+}

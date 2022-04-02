@@ -1,0 +1,20 @@
+{
+  "osStr": "watchOS",
+  "version": "1.0.1",
+  "iosVersion": "8.3",
+  "build": "12S632",
+  "released": "2015-05-19",
+  "devices": {
+    "Watch1,1": {
+      "ipsw": "none"
+    },
+    "Watch1,2": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "12S632",
+  "beta": false,
+  "sortVersion": "8.3",
+  "osType": "watchOS",
+  "appledburl": "https://appledb.dev/watchOS/12S632.html"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "iPad Air Wi-Fi + Cellular",
+  "identifier": "iPad4,2",
+  "soc": "A7",
+  "arch": "arm64",
+  "type": "iPad Air",
+  "board": [
+    "J72AP"
+  ],
+  "model": [
+    "A1475"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-air-99989b.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-air-d7d9d8.icns.png"
+  ]
+}

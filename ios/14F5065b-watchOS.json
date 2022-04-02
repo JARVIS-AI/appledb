@@ -1,0 +1,32 @@
+{
+  "osStr": "watchOS",
+  "version": "3.2.2 beta",
+  "iosVersion": "10.3.2 beta",
+  "build": "14F5065b",
+  "released": "2017-03-28",
+  "beta": true,
+  "devices": {
+    "Watch1,1": {
+      "ipsw": "none"
+    },
+    "Watch1,2": {
+      "ipsw": "none"
+    },
+    "Watch2,3": {
+      "ipsw": "none"
+    },
+    "Watch2,4": {
+      "ipsw": "none"
+    },
+    "Watch2,6": {
+      "ipsw": "none"
+    },
+    "Watch2,7": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "14F5065b-watchOS",
+  "sortVersion": "10.3.2 beta",
+  "osType": "watchOS",
+  "appledburl": "https://appledb.dev/watchOS/14F5065b.html"
+}

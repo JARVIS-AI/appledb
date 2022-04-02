@@ -1,0 +1,18 @@
+{
+  "name": "iPad mini 3 Wi-Fi + Cellular (TD-LTE)",
+  "identifier": "iPad4,9",
+  "soc": "A7",
+  "arch": "arm64",
+  "type": "iPad mini",
+  "board": [
+    "J87MAP"
+  ],
+  "model": [
+    "A1601"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini3-wwan-b4b5b9.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini3-wwan-d7d8d9.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini3-wwan-e1ccb5.icns.png"
+  ]
+}

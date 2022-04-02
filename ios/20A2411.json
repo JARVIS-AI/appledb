@@ -1,0 +1,22 @@
+{
+  "osStr": "macOS",
+  "version": "11.0",
+  "build": "20A2411",
+  "released": "2020-11-10",
+  "devices": {
+    "MacBookAir10,1": {
+      "ipsw": "none"
+    },
+    "MacBookPro17,1": {
+      "ipsw": "none"
+    },
+    "Macmini9,1": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "20A2411",
+  "beta": false,
+  "sortVersion": "11.0",
+  "osType": "macOS",
+  "appledburl": "https://appledb.dev/macOS/20A2411.html"
+}

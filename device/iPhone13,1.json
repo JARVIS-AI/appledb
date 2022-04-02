@@ -1,0 +1,16 @@
+{
+  "name": "iPhone 12 mini",
+  "identifier": "iPhone13,1",
+  "soc": "A14",
+  "arch": "arm64e",
+  "type": "iPhone",
+  "board": [
+    "D52GAP"
+  ],
+  "model": [
+    "A2176",
+    "A2398",
+    "A2399",
+    "A2400"
+  ]
+}

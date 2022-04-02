@@ -1,0 +1,16 @@
+{
+  "osStr": "iOS",
+  "version": "13.4",
+  "build": "17E8255",
+  "released": "2020-04-15",
+  "devices": {
+    "iPhone12,8": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "17E8255",
+  "beta": false,
+  "sortVersion": "13.4",
+  "osType": "iOS",
+  "appledburl": "https://appledb.dev/iOS/17E8255.html"
+}

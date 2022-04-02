@@ -1,0 +1,22 @@
+{
+  "osStr": "audioOS",
+  "version": "14.3 beta 2",
+  "build": "18K5556a",
+  "released": "2020-11-18",
+  "beta": true,
+  "devices": {
+    "AudioAccessory1,1": {
+      "ipsw": "none"
+    },
+    "AudioAccessory1,2": {
+      "ipsw": "none"
+    },
+    "AudioAccessory5,1": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "18K5556a-audioOS",
+  "sortVersion": "14.3 beta 2",
+  "osType": "audioOS",
+  "appledburl": "https://appledb.dev/audioOS/18K5556a.html"
+}

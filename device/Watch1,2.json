@@ -1,0 +1,13 @@
+{
+  "name": "Apple Watch (1st generation) (42mm)",
+  "identifier": "Watch1,2",
+  "soc": "S1",
+  "arch": "armv7k",
+  "type": "Apple Watch",
+  "board": [
+    "N28AAP"
+  ],
+  "model": [
+    "A1554"
+  ]
+}

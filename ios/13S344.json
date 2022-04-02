@@ -1,0 +1,20 @@
+{
+  "osStr": "watchOS",
+  "version": "2.0",
+  "iosVersion": "9.0",
+  "build": "13S344",
+  "released": "2015-09-21",
+  "devices": {
+    "Watch1,1": {
+      "ipsw": "none"
+    },
+    "Watch1,2": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "13S344",
+  "beta": false,
+  "sortVersion": "9.0",
+  "osType": "watchOS",
+  "appledburl": "https://appledb.dev/watchOS/13S344.html"
+}

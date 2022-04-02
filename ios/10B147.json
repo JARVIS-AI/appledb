@@ -1,0 +1,22 @@
+{
+  "osStr": "iOS",
+  "version": "6.1.2",
+  "build": "10B147",
+  "released": "2013-01-24",
+  "devices": {
+    "iPad2,5": {
+      "ipsw": "none"
+    },
+    "iPad2,6": {
+      "ipsw": "http://appldnld.apple.com/iOS6.1/091-0749.20130215.96TgY/iPad2,6_6.1.2_10B147_Restore.ipsw"
+    },
+    "iPad2,7": {
+      "ipsw": "http://appldnld.apple.com/iOS6.1/091-0730.20130215.Acsit/iPad2,7_6.1.2_10B147_Restore.ipsw"
+    }
+  },
+  "uniqueBuild": "10B147",
+  "beta": false,
+  "sortVersion": "6.1.2",
+  "osType": "iOS",
+  "appledburl": "https://appledb.dev/iOS/10B147.html"
+}

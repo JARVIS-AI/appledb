@@ -1,0 +1,20 @@
+{
+  "name": "iPad mini (6th generation) Wi-Fi + Cellular",
+  "identifier": "iPad14,2",
+  "soc": "A15",
+  "arch": "arm64e",
+  "type": "iPad mini",
+  "board": [
+    "J311AP"
+  ],
+  "model": [
+    "A2568",
+    "A2569"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini6-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini6-3.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini6-6.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini6-7.icns.png"
+  ]
+}

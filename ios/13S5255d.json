@@ -1,0 +1,19 @@
+{
+  "osStr": "watchOS",
+  "version": "2.0 beta 2",
+  "sortVersion": "9.0 beta 2.1",
+  "build": "13S5255d",
+  "released": "2015-06-30",
+  "beta": true,
+  "devices": {
+    "Watch1,1": {
+      "ipsw": "none"
+    },
+    "Watch1,2": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "13S5255d",
+  "osType": "watchOS",
+  "appledburl": "https://appledb.dev/watchOS/13S5255d.html"
+}

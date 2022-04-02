@@ -1,0 +1,19 @@
+{
+  "osStr": "audioOS",
+  "version": "14.0 beta 2",
+  "build": "18J5331g",
+  "released": "2020-07-07",
+  "beta": true,
+  "devices": {
+    "AudioAccessory1,1": {
+      "ipsw": "none"
+    },
+    "AudioAccessory1,2": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "18J5331g-audioOS",
+  "sortVersion": "14.0 beta 2",
+  "osType": "audioOS",
+  "appledburl": "https://appledb.dev/audioOS/18J5331g.html"
+}

@@ -1,0 +1,22 @@
+{
+  "osStr": "audioOS",
+  "version": "14.5 beta 7",
+  "build": "18L5203a",
+  "released": "2021-04-07",
+  "beta": true,
+  "devices": {
+    "AudioAccessory1,1": {
+      "ipsw": "none"
+    },
+    "AudioAccessory1,2": {
+      "ipsw": "none"
+    },
+    "AudioAccessory5,1": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "18L5203a-audioOS",
+  "sortVersion": "14.5 beta 7",
+  "osType": "audioOS",
+  "appledburl": "https://appledb.dev/audioOS/18L5203a.html"
+}

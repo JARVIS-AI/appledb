@@ -1,0 +1,14 @@
+{
+  "name": "Apple Watch SE (GPS + Cellular, 44mm)",
+  "identifier": "Watch5,11",
+  "soc": "S5",
+  "arch": "arm64e",
+  "type": "Apple Watch",
+  "board": [
+    "N142SAP"
+  ],
+  "model": [
+    "A2353",
+    "A2355"
+  ]
+}

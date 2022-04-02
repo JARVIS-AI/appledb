@@ -1,0 +1,17 @@
+{
+  "name": "iPad (9th generation) Wi-Fi",
+  "identifier": "iPad12,1",
+  "soc": "A13",
+  "arch": "arm64e",
+  "type": "iPad",
+  "board": [
+    "J181AP"
+  ],
+  "model": [
+    "A2602"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-9-wifi-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-9-wifi-2.icns.png"
+  ]
+}

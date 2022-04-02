@@ -1,0 +1,20 @@
+{
+  "osStr": "Apple TV Software",
+  "version": "7.0.1 beta",
+  "iosVersion": "8.1 beta",
+  "build": "12B401",
+  "released": "2014-09-29",
+  "beta": true,
+  "devices": {
+    "AppleTV3,1": {
+      "ipsw": "none"
+    },
+    "AppleTV3,2": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "12B401-tvOS",
+  "sortVersion": "8.1 beta",
+  "osType": "tvOS",
+  "appledburl": "https://appledb.dev/tvOS/12B401.html"
+}

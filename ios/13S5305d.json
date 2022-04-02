@@ -1,0 +1,20 @@
+{
+  "osStr": "watchOS",
+  "version": "2.0 beta 4",
+  "iosVersion": "9.0 beta 4",
+  "build": "13S5305d",
+  "released": "2015-07-21",
+  "beta": true,
+  "devices": {
+    "Watch1,1": {
+      "ipsw": "none"
+    },
+    "Watch1,2": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "13S5305d",
+  "sortVersion": "9.0 beta 4",
+  "osType": "watchOS",
+  "appledburl": "https://appledb.dev/watchOS/13S5305d.html"
+}

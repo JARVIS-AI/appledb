@@ -1,0 +1,17 @@
+{
+  "osStr": "tvOS",
+  "version": "11.3 beta 6",
+  "build": "15L5211b",
+  "released": "2018-03-20",
+  "beta": true,
+  "devices": {
+    "AppleTV5,3": {
+      "ipsw": "http://appldnld.apple.com/tvos11.3seed/091-75256-201803018-348442FA-28B6-11E8-9F53-3684D78A49EE/AppleTV5,3_11.3_15L5211b_Restore.ipsw"
+    },
+    "AppleTV6,2": {}
+  },
+  "uniqueBuild": "15L5211b",
+  "sortVersion": "11.3 beta 6",
+  "osType": "tvOS",
+  "appledburl": "https://appledb.dev/tvOS/15L5211b.html"
+}

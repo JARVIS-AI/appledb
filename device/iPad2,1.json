@@ -1,0 +1,17 @@
+{
+  "name": "iPad 2 Wi-Fi",
+  "identifier": "iPad2,1",
+  "soc": "A5",
+  "arch": "armv7",
+  "type": "iPad",
+  "board": [
+    "K93AP"
+  ],
+  "model": [
+    "A1395"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-2-black.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-2-white.icns.png"
+  ]
+}

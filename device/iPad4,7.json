@@ -1,0 +1,18 @@
+{
+  "name": "iPad mini 3 Wi-Fi",
+  "identifier": "iPad4,7",
+  "soc": "A7",
+  "arch": "arm64",
+  "type": "iPad mini",
+  "board": [
+    "J85MAP"
+  ],
+  "model": [
+    "A1599"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini3-wifi-b4b5b9.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini3-wifi-d7d8d9.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini3-wifi-e1ccb5.icns.png"
+  ]
+}

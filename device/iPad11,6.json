@@ -1,0 +1,18 @@
+{
+  "name": "iPad (8th generation) Wi-Fi",
+  "identifier": "iPad11,6",
+  "soc": "A12",
+  "arch": "arm64e",
+  "type": "iPad",
+  "board": [
+    "J171AAP"
+  ],
+  "model": [
+    "A2270"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-8-wifi-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-8-wifi-2.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-8-wifi-3.icns.png"
+  ]
+}

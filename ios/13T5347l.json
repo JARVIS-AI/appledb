@@ -1,0 +1,16 @@
+{
+  "osStr": "tvOS",
+  "version": "9.0 beta",
+  "build": "13T5347l",
+  "released": "2015-09-09",
+  "beta": true,
+  "devices": {
+    "AppleTV5,3": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "13T5347l",
+  "sortVersion": "9.0 beta",
+  "osType": "tvOS",
+  "appledburl": "https://appledb.dev/tvOS/13T5347l.html"
+}

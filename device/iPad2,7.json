@@ -1,0 +1,17 @@
+{
+  "name": "iPad mini Wi-Fi + Cellular (MM)",
+  "identifier": "iPad2,7",
+  "soc": "A5",
+  "arch": "armv7",
+  "type": "iPad mini",
+  "board": [
+    "P107AP"
+  ],
+  "model": [
+    "A1455"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini-black-3g.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-mini-white-3g.icns.png"
+  ]
+}

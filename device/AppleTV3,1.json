@@ -1,0 +1,16 @@
+{
+  "name": "Apple TV (3rd generation)",
+  "identifier": "AppleTV3,1",
+  "soc": "A5",
+  "arch": "armv7",
+  "type": "Apple TV",
+  "board": [
+    "J33AP"
+  ],
+  "model": [
+    "A1427"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.apple-tv-3.icns.png"
+  ]
+}

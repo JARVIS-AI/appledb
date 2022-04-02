@@ -1,0 +1,19 @@
+{
+  "name": "iPad Pro (9.7-inch) Wi-Fi + Cellular",
+  "identifier": "iPad6,4",
+  "soc": "A9X",
+  "arch": "arm64",
+  "type": "iPad Pro",
+  "board": [
+    "J128AP"
+  ],
+  "model": [
+    "A1674"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-pro-9point7-wwan-b9b7ba.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-pro-9point7-wwan-dadcdb.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-pro-9point7-wwan-e1ccb7.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-pro-9point7-wwan-e4c1b9.icns.png"
+  ]
+}

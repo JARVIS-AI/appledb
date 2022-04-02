@@ -1,0 +1,17 @@
+{
+  "name": "iPad Pro 11-inch (1st generation) Wi-Fi (1TB)",
+  "identifier": "iPad8,2",
+  "soc": "A12X",
+  "arch": "arm64e",
+  "type": "iPad Pro",
+  "board": [
+    "J317XAP"
+  ],
+  "model": [
+    "A1980"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-pro-11-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-pro-11-2.icns.png"
+  ]
+}

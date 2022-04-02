@@ -1,0 +1,16 @@
+{
+  "osStr": "iOS",
+  "version": "4.2.5",
+  "build": "8E128",
+  "released": "2011-01-11",
+  "devices": {
+    "iPhone3,3": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "8E128",
+  "beta": false,
+  "sortVersion": "4.2.5",
+  "osType": "iOS",
+  "appledburl": "https://appledb.dev/iOS/8E128.html"
+}

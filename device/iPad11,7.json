@@ -1,0 +1,20 @@
+{
+  "name": "iPad (8th generation) Wi-Fi + Cellular",
+  "identifier": "iPad11,7",
+  "soc": "A12",
+  "arch": "arm64e",
+  "type": "iPad",
+  "board": [
+    "J127AAP"
+  ],
+  "model": [
+    "A2428",
+    "A2429",
+    "A2430"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-8-wwan-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-8-wwan-2.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-8-wwan-3.icns.png"
+  ]
+}

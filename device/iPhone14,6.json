@@ -1,0 +1,17 @@
+{
+  "name": "iPhone SE (3rd generation)",
+  "identifier": "iPhone14,6",
+  "soc": "A15",
+  "arch": "arm64e",
+  "type": "iPhone",
+  "board": [
+    "D49AP"
+  ],
+  "model": [
+    "A2595",
+    "A2782",
+    "A2783",
+    "A2784",
+    "A2785"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "osStr": "iOS",
+  "version": "9.2.1 beta 2",
+  "build": "13D14",
+  "released": "2016-01-04",
+  "beta": true,
+  "devices": {},
+  "uniqueBuild": "13D14",
+  "sortVersion": "9.2.1 beta 2",
+  "osType": "iOS",
+  "appledburl": "https://appledb.dev/iOS/13D14.html"
+}

@@ -1,0 +1,17 @@
+{
+  "osStr": "Apple TV Software",
+  "version": "4.1",
+  "iosVersion": "4.2",
+  "build": "8C150",
+  "released": "2010-11-19",
+  "devices": {
+    "AppleTV2,1": {
+      "ipsw": "http://appldnld.apple.com/AppleTV/061-8747.20101122.Vgtr5/AppleTV2,1_4.2_8C150_Restore.ipsw"
+    }
+  },
+  "uniqueBuild": "8C150",
+  "beta": false,
+  "sortVersion": "4.2",
+  "osType": "tvOS",
+  "appledburl": "https://appledb.dev/tvOS/8C150.html"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "iPad",
+  "identifier": "iPad1,1",
+  "soc": "A4",
+  "arch": "armv7",
+  "type": "iPad",
+  "board": [
+    "K48AP"
+  ],
+  "model": [
+    "A1219",
+    "A1337"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad.icns.png"
+  ]
+}

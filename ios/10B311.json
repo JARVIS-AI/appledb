@@ -1,0 +1,12 @@
+{
+  "osStr": "iOS",
+  "version": "6.1.1 beta",
+  "build": "10B311",
+  "released": "2013-02-06",
+  "beta": true,
+  "devices": {},
+  "uniqueBuild": "10B311",
+  "sortVersion": "6.1.1 beta",
+  "osType": "iOS",
+  "appledburl": "https://appledb.dev/iOS/10B311.html"
+}

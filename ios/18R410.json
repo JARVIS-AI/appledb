@@ -1,0 +1,22 @@
+{
+  "osStr": "watchOS",
+  "version": "7.0.3",
+  "sortVersion": "14.0.1.2",
+  "build": "18R410",
+  "released": "2020-10-19",
+  "devices": {
+    "Watch3,1": {
+      "ipsw": "none"
+    },
+    "Watch3,2": {
+      "ipsw": "none"
+    },
+    "Watch3,3": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "18R410",
+  "beta": false,
+  "osType": "watchOS",
+  "appledburl": "https://appledb.dev/watchOS/18R410.html"
+}

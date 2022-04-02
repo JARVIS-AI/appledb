@@ -1,0 +1,16 @@
+{
+  "osStr": "iOS",
+  "version": "12.3",
+  "build": "16F8155",
+  "released": "2019-05-28",
+  "devices": {
+    "iPod9,1": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "16F8155",
+  "beta": false,
+  "sortVersion": "12.3",
+  "osType": "iOS",
+  "appledburl": "https://appledb.dev/iOS/16F8155.html"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "iPad Pro 12.9-inch (5th generation) Wi-Fi + Cellular with mmWave",
+  "identifier": "iPad13,9",
+  "soc": "M1",
+  "arch": "arm64e",
+  "type": "iPad Pro",
+  "board": [
+    "J522XAP"
+  ],
+  "model": [
+    "A2379"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-pro-12point9-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-pro-12point9-2.icns.png"
+  ]
+}

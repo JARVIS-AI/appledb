@@ -1,0 +1,15 @@
+{
+  "name": "HomePod (Unknown Model)",
+  "identifier": "AudioAccessory1,2",
+  "soc": "A8",
+  "arch": "arm64",
+  "type": "HomePod",
+  "board": [
+    "B238AP"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.homepod-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.homepod-2.icns.png"
+  ],
+  "model": []
+}

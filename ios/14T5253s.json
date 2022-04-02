@@ -1,0 +1,16 @@
+{
+  "osStr": "tvOS",
+  "version": "10.0 beta",
+  "build": "14T5253s",
+  "released": "2016-06-13",
+  "beta": true,
+  "devices": {
+    "AppleTV5,3": {
+      "ipsw": "http://adcdownload.apple.com/WWDC_2016/tvOS_10_beta/AppleTV53_10.0_14T5253s_Restore.ipsw"
+    }
+  },
+  "uniqueBuild": "14T5253s",
+  "sortVersion": "10.0 beta",
+  "osType": "tvOS",
+  "appledburl": "https://appledb.dev/tvOS/14T5253s.html"
+}

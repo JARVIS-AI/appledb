@@ -1,0 +1,17 @@
+{
+  "osStr": "tvOS",
+  "version": "13.4.5 beta 2",
+  "build": "17L5543d",
+  "released": "2020-04-15",
+  "beta": true,
+  "devices": {
+    "AppleTV5,3": {
+      "ipsw": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-97173/68034FD2-415F-48D3-836F-4BBC19A2E1F0/AppleTV5,3_13.4.5_17L5543d_Restore.ipsw"
+    },
+    "AppleTV6,2": {}
+  },
+  "uniqueBuild": "17L5543d",
+  "sortVersion": "13.4.5 beta 2",
+  "osType": "tvOS",
+  "appledburl": "https://appledb.dev/tvOS/17L5543d.html"
+}

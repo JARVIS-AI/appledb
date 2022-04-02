@@ -1,0 +1,13 @@
+{
+  "name": "Apple TV 4K (1st generation)",
+  "identifier": "AppleTV6,2",
+  "soc": "A10X",
+  "arch": "arm64",
+  "type": "Apple TV",
+  "board": [
+    "J105AAP"
+  ],
+  "model": [
+    "A1842"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "iPad Air (3rd generation) Wi-Fi + Cellular",
+  "identifier": "iPad11,4",
+  "soc": "A12",
+  "arch": "arm64e",
+  "type": "iPad Air",
+  "board": [
+    "J218AP"
+  ],
+  "model": [
+    "A2123",
+    "A2153",
+    "A2154"
+  ],
+  "icon": [
+    "https://emiyl.github.io/appleicons/com.apple.ipad-air3-wwan-1.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-air3-wwan-2.icns.png",
+    "https://emiyl.github.io/appleicons/com.apple.ipad-air3-wwan-3.icns.png"
+  ]
+}

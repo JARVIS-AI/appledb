@@ -1,0 +1,22 @@
+{
+  "osStr": "audioOS",
+  "version": "14.4 beta 2",
+  "build": "18K5793d",
+  "released": "2021-01-13",
+  "beta": true,
+  "devices": {
+    "AudioAccessory1,1": {
+      "ipsw": "none"
+    },
+    "AudioAccessory1,2": {
+      "ipsw": "none"
+    },
+    "AudioAccessory5,1": {
+      "ipsw": "none"
+    }
+  },
+  "uniqueBuild": "18K5793d-audioOS",
+  "sortVersion": "14.4 beta 2",
+  "osType": "audioOS",
+  "appledburl": "https://appledb.dev/audioOS/18K5793d.html"
+}

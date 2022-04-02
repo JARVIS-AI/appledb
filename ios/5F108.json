@@ -1,0 +1,12 @@
+{
+  "osStr": "iPhoneOS",
+  "version": "2.1 beta 3",
+  "build": "5F108",
+  "released": "2008-08-06",
+  "beta": true,
+  "devices": {},
+  "uniqueBuild": "5F108",
+  "sortVersion": "2.1 beta 3",
+  "osType": "iOS",
+  "appledburl": "https://appledb.dev/iOS/5F108.html"
+}

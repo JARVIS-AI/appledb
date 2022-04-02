@@ -1,0 +1,16 @@
+{
+  "osStr": "Apple TV Software",
+  "version": "3.0.1",
+  "build": "8N5983",
+  "released": "2009-11-07",
+  "devices": {
+    "AppleTV1,1": {
+      "ipsw": "http://mesu.apple.com/data/OS/061-7491.20091107.TVA31/2Z694-6004-003.dmg"
+    }
+  },
+  "uniqueBuild": "8N5983",
+  "beta": false,
+  "sortVersion": "3.0.1",
+  "osType": "tvOS",
+  "appledburl": "https://appledb.dev/tvOS/8N5983.html"
+}

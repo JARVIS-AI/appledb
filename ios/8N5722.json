@@ -1,0 +1,16 @@
+{
+  "osStr": "Apple TV Software",
+  "version": "2.3",
+  "build": "8N5722",
+  "released": "2008-11-19",
+  "devices": {
+    "AppleTV1,1": {
+      "ipsw": "http://mesu.apple.com/data/OS/061-5651.20081119.32VtA/2Z694-5573-24.dmg"
+    }
+  },
+  "uniqueBuild": "8N5722",
+  "beta": false,
+  "sortVersion": "2.3",
+  "osType": "tvOS",
+  "appledburl": "https://appledb.dev/tvOS/8N5722.html"
+}
